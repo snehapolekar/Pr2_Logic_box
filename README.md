@@ -163,6 +163,10 @@ Python learning both educational and enjoyable.
 
 ------------------------------------------------------------------------
 
+# Explanation video :
+
+https://drive.google.com/file/d/15hXaugNZ5Cc48pX1igIUDeZ5v4aIm8cT/view?usp=sharing
+
 ## 👨‍💻 Author
 
 Linkedin id : www.linkedin.com/in/sneha-polekar-1a8022415
